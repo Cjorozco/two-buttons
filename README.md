@@ -15,3 +15,5 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 # two-buttons
+
+The exercise consists of clicking on a button, it changes the color of the text, opens a modal with a message and closes that modal to be able to click on the other button.
