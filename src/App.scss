@@ -1,0 +1,27 @@
+span {
+  text-transform: uppercase;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-container-header {
+  display: flex;
+  justify-content: center;
+}
+
+.App-header {
+  box-sizing: border-box;
+  width: 50%;
+  border: solid #004254 9px;
+  padding: 3px;
+}
+
+.blue {
+  color: #008CBA;
+}
+
+.red {
+  color: #f44336;
+}
